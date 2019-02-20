@@ -57,3 +57,7 @@ x
 第四章 天气服务项目改造
 第五章 spring cloud简介，入门配置，子项目介绍（注意spring boot注意spring cloud的版本兼容）
 第六章 服务的注册与发现
+
+----------
+## 附件 ##
+    其中，Redis.zip文件夹中包含项目所需的Redis服务以及Redis的可视化工具。
